@@ -1,16 +1,5 @@
-# fluttertry
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ios swift word checker
+![Alt text](https://i.ibb.co/p3tBSqJ/Simulator-Screenshot-i-Phone-SE-3rd-generation-2023-10-21-at-15-13-13.png)
+![Alt text](https://i.ibb.co/sW7kp4q/Simulator-Screenshot-i-Phone-SE-3rd-generation-2023-10-21-at-15-13-17.png)
+![Alt text](https://i.ibb.co/C9mmrzG/Simulator-Screenshot-i-Phone-SE-3rd-generation-2023-10-21-at-15-13-45.png)
+![Alt text](https://i.ibb.co/6wzBRQ1/Simulator-Screenshot-i-Phone-SE-3rd-generation-2023-10-21-at-15-13-48.png)
